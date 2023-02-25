@@ -6965,7 +6965,6 @@
 @form	~h |GA₂×(HA.HA)|
 @list ELLES347
 @list LAK695
-@ucode x124BE
 @list ZATU174
 @end sign
 
