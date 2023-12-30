@@ -1634,7 +1634,7 @@
 @sys	Attinger unug⁻ => unug
 @@
 @form MURUB₄
-@list	LAK157
+@list	LAK158
 @inote	sfs: Maul Herzberuhigungsklagen p.354 uses the notation unug("MURU₂"); needs checking
 @@
 @end sign
@@ -24278,20 +24278,21 @@
 @end sign
 
 @sign MURUB₄
-@list	LAK157
-@note	MURUB₄(LAK157) merges with NISAG(LAK159)
-@umap	NISAG
-@unote	Temporary mapping to NISAG pending addition of MURUB₄
-@uage	9
+@aka |UD×(U.U.U)@g|
+@list	ABZL207b
+@list	HZL110
+@list	LAK158
+@list	MZL545
+@list	SLLHA337
+@note	MURUB₄(LAK158) merges with NISAG(LAK159)
+@uname	CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU
+@list	U+12318
+@ucun	𒌘
+@uage	5.0
 @v	mur₂
 @v	muri
 @v	muru₂
 @v	murub₄
-@end sign
-
-@sign MURUB₄@g
-@list	LAK158
-@inote	for lak.atf
 @end sign
 
 @sign MUŠ
@@ -36635,25 +36636,6 @@
 @v	u₂₂
 @end sign
 
-@sign |UD×(U.U.U)@g|
-@pname	|UD×U+U+U@g|
-@list	ABZL207a/207b
-@list	HZL110
-@list	MZL545
-@list	SLLHA337
-@uname	CUNEIFORM SIGN UD TIMES U PLUS U PLUS U GUNU
-@list	U+12318
-@ucun	𒌘
-@uage	5.0
-@v	murₓ
-@v	muruₓ
-@v	murubₓ
-@v	nesaŋₓ
-@v	nisaŋₓ
-@v	saŋₓ
-@v	zaŋₓ
-@end sign
-
 @sign |UD×(U.U.U).AN.ŠEŠ.KI|
 @pname	|UD×U+U+U.AN.ŠEŠ.KI|
 @useq	x12317.x1202D.x122C0.x121A0
@@ -36686,6 +36668,7 @@
 
 @sign UD@g
 @list	KWU257
+@list	LAK157
 @list	MZL542
 @list	SLLHA337xn1
 @uname	CUNEIFORM SIGN UD GUNU
