@@ -36509,14 +36509,6 @@
 @compoundonly	|PIRIG×PA|
 @inote	added during ogsl upgrade
 
-@sign |PIRIG×PA.LAGAB|
-@list	LAK258
-@oid	o0027638
-@inote	missing compounds for lak.atf
-@useq	X.x121B8
-@ucun	X𒆸
-@end sign
-
 @sign |PIRIG×ŠE|
 @list	LAK260
 @oid	o0027640
@@ -40958,6 +40950,10 @@
 
 @sign |ŠEG₉.BAR|
 @oid	o0002734
+@list	LAK258
+@note	LAK258 is from P134675 o 4 = http://oracc.org/epsd2/P134675.6.2.
+	Genouillac’s copy has a 𒁇 with an extra vertical, which gets copied by
+	Deimel as 𒆸 in LAK.
 @useq	x122BE.x12047
 @ucun	𒊾𒁇
 @v	sabar
